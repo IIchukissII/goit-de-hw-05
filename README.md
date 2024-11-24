@@ -1,6 +1,6 @@
 # Homework: Working with Kafka
 
-This homework is designed to enhance your skills in working with Apache Kafka. The task involves creating and managing Kafka topics, producing and consuming messages, and implementing alert mechanisms for out-of-bound values.
+This homework is designed to enhance skills in working with Apache Kafka. The task involves creating and managing Kafka topics, producing and consuming messages, and implementing alert mechanisms for out-of-bound values.
 
 The homework consists of the following files:
 
