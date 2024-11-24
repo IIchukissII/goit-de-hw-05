@@ -42,4 +42,4 @@ It consumes alert messages from these topics and displays them in the console.
 ---
 ## 5. Result
 
-[result_screen] [./img/task.PNG]
+![result_screen] (./img/task.PNG)
